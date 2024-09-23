@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frullato Tradizionale Italiano</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Sezione Hero -->
+    <section class="hero">
+        <div class="hero-text">
+            <h1>Porta la Tradizione Italiana sulla Tua Tavola</h1>
+            <p>Frullati genuini, ispirati dalle nostre radici italiane, realizzati con ingredienti naturali al 100%.</p>
+            <a href="#ordina" class="cta-button">Scopri i nostri sapori</a>
+        </div>
+        <div class="hero-image">
+            <img src="lasagna_modificata.jpg" alt="Frullato Tradizionale Italiano">
+        </div>
+    </section>
+
+    <!-- Sezione Descrittiva del Prodotto -->
+    <section class="product-details">
+        <h2>La Tradizione Italiana in Ogni Sorso</h2>
+        <p>Il nostro frullato porta sulla tua tavola il sapore autentico dell'Italia, preparato con ingredienti freschi e genuini. Sperimenta la bontà della tradizione italiana!</p>
+    </section>
+
+    <!-- Sezione Benefici -->
+    <section class="benefits">
+        <div class="benefit-item">
+            <h3>100% Naturale</h3>
+            <p>Solo ingredienti freschi e genuini.</p>
+        </div>
+        <div class="benefit-item">
+            <h3>Ricco di Vitamine</h3>
+            <p>Un'esplosione di salute in ogni sorso.</p>
+        </div>
+        <div class="benefit-item">
+            <h3>Fatto a Mano</h3>
+            <p>Preparato con amore e passione.</p>
+        </div>
+    </section>
+
+    <!-- CTA finale -->
+    <section class="cta-final">
+        <h2>Prova il nostro Frullato oggi stesso!</h2>
+        <a href="#ordina" class="cta-button">Ordina ora</a>
+    </section>
+</body>
+</html>
